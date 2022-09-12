@@ -9,7 +9,7 @@
   body{
     font-family: "DotGothic16";
     color: #262626;
-    background-color: orange;
+    background-color: rgba(255, 0, 0, 0.608);
   }
   
   .container{
@@ -46,7 +46,7 @@
   .input-container i{
     cursor: pointer;
     font-size: 2.5rem;
-    color: lightpink;
+    color: rgba(255, 182, 193, 0.704);
   }
   
   .input-container input{
@@ -55,7 +55,7 @@
     border: 0;
     width: 65%;
     font-size: 1.5rem;
-    border-bottom: 3px solid lightgray;
+    border-bottom: 3px solid rgba(211, 211, 211, 0.704);
   }
   
   #groceryItems{
